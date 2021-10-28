@@ -1,0 +1,9 @@
+﻿  d3dApp.cpp
+  d3dUtil.cpp
+  GameTimer.cpp
+  MathHelper.cpp
+  BoxApp.cpp
+  Generating code
+  All 882 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Box.vcxproj -> C:\Users\meravigm\Documents\DirectX 12\Chapter 6 Drawing in Direct3D\Box\x64\Release\Box.exe
